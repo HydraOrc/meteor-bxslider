@@ -1,8 +1,8 @@
 Package.describe({
-  summary: "bxslider-4, Responsive jQuery content slider",
-  version: "4.2.3",
-  git: "https://github.com/zhouzhuojie/meteor-bxslider.git",
-  name: "rexzh0u:bxslider"
+  summary: "Velocity.js oriented bxSlider-4.2.5, Responsive jQuery content slider. Based on rexzh0u:bxslider@4.2.3, percolate:velocityjs@1.2.1_1 and stevenwanderski/bxslider-4@4.2.5",
+  version: "4.2.5_1",
+  git: "https://github.com/HydraOrc/meteor-bxslider.git",
+  name: "hydraorc:bxslider"
 });
 
 Package.onUse(function(api) {

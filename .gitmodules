@@ -1,3 +1,4 @@
 [submodule "lib/bxslider-4"]
 	path = lib/bxslider-4
 	url = https://github.com/HydraOrc/bxslider-4.git
+	branch = master
